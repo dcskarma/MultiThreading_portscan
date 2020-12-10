@@ -1,7 +1,7 @@
 # MultiThreading_portscan
 
 to use that just 
-##install python 3
+#install python 3
 
 
-##python3 multithreading.py <targetname>
+#python3 multithreading.py [targetName]
